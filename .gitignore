@@ -1,0 +1,6 @@
+*.txt
+dev.env
+/playground/*
+/config/*
+/tests/*
+/node_modules/*
